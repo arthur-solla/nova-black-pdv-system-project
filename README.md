@@ -1,4 +1,4 @@
-# MySQL Project
+# Nova Black Project
 Projeto Integrador da Faculdade de <strong>Análise e Desenvolvimento de Sistemas</strong>.
 
 Um banco de dados utilizando <strong>MySQL</strong>
