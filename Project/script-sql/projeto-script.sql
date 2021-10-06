@@ -35,7 +35,7 @@ create table pedido_de_venda(
 );
 
 alter table pedido_de_venda add foreign key(FK_id_cliente) references cliente(id_cliente);
-alter table pedido_de_venda add foreign key(FK_id_produto) references estoque(id_produtos);
+alter table pedido_de_venda add foreign key(FK_id_produto) references estoque(id_produto);
 
 
 
