@@ -19,7 +19,5 @@ Um sistema PDV (Ponto de Venda) com banco de dados, utilizando <strong>Java</str
 ## Apresentação do Sistema:
 
 <div>
-  
 Uploading nova-black-system-video.mp4…
-
 </div>
